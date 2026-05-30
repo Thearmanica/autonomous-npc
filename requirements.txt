@@ -1,0 +1,22 @@
+# AI / ML
+faster-whisper>=1.0.0
+groq>=0.4.0
+edge-tts>=6.1.9
+
+# Audio
+sounddevice>=0.4.6
+numpy>=1.24.0
+pygame-ce>=2.5.0
+
+# 3D engine
+raylib>=5.0.0
+
+# Yardimcilar
+python-dotenv>=1.0.0
+
+# Benchmark icin (opsiyonel)
+pydub>=0.25.1
+matplotlib>=3.7.0
+
+# Not: CUDA destegi icin pytorch ayri kurulmali (opsiyonel ama hizli):
+# pip install torch --index-url https://download.pytorch.org/whl/cu121

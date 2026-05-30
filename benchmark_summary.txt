@@ -1,0 +1,11 @@
+
+======================================================================
+PERFORMANS OZETI - 8 senaryo
+======================================================================
+  STT (Whisper)      ort=406ms  med=379ms  min=348ms  max=590ms  std=74ms 
+  LLM (Groq)         ort=542ms  med=475ms  min=270ms  max=925ms  std=224ms 
+  TTS (Edge)         ort=1818ms  med=1916ms  min=1313ms  max=2222ms  std=289ms 
+  TOPLAM             ort=2767ms  med=2900ms  min=1941ms  max=3513ms  std=497ms 
+  STT dogruluk       ort=83%   med=92%   min=33%   max=100%   std=22%  
+  Tool call basari: 3/8
+======================================================================

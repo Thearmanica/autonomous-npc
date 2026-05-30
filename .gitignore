@@ -1,0 +1,53 @@
+# API anahtari (KRITIK - asla push edilmemeli)
+.env
+*.env
+
+# Sanal ortam
+venv/
+.venv/
+env/
+ENV/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Runtime dosyalari
+game_state.json
+
+# Whisper model cache (cok buyuk)
+*.bin
+models/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs ve gecici
+*.log
+*.tmp
+temp/
+
+# Benchmark ciktilari (opsiyonel - istersen kaldir)
+# benchmark_results.json
+# benchmark_summary.txt
+# benchmark_latency.png
+
+# Audio dosyalari
+*.mp3
+*.wav
+
+# Ekran goruntuleri klasor disindaysa
+*.png
+*.jpg
+!docs/*.png
+!docs/*.jpg
