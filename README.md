@@ -186,7 +186,9 @@ eldermoor-3d-npc/
 
 ## Demo
 
-[![Demo Video](https://youtu.be/94njYEO7OMc)
+## Demo Video
+
+[![Eldermoor 3D Demo](https://img.youtube.com/vi/94njYEO7OMc/maxresdefault.jpg)](https://youtu.be/94njYEO7OMc)
 
 > YouTube link buraya gelecek (video çekildikten sonra README güncellenir)
 
