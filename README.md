@@ -5,9 +5,8 @@ Oyunlardaki tek düze, scripted NPC etkileşimlerine alternatif olarak; mikrofon
 Bitirme projesi olarak geliştirilmiştir.
 
 
-![Eldermoor 3D Demo](https://img.youtube.com/vi/94njYEO7OMc/0.jpg)
+![Eldermoor 3D](docs/birincikapakveyasistemmimarisi.png)
 
-İzlemek için: https://youtu.be/94njYEO7OMc
 
 ---
 
