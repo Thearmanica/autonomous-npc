@@ -186,7 +186,8 @@ eldermoor-3d-npc/
 
 ## Demo
 
-[![Demo Video](docs/01_genel_koy.png)](YOUTUBE_LINK_BURAYA)
+[![Demo Video](<img width="1281" height="749" alt="birincikapakveyasistemmimarisi" src="https://github.com/user-attachments/assets/f981239b-1926-4c69-abe6-600950d2ec2d" />
+)](https://youtu.be/94njYEO7OMc)
 
 > YouTube link buraya gelecek (video çekildikten sonra README güncellenir)
 
