@@ -188,7 +188,7 @@ eldermoor-3d-npc/
 
 ## Demo
 
-![Eldermoor 3D](docs/birincikapakveyasistemmimarisi.png)
+![Eldermoor 3D](docs/birinci.png)
 
 🎥 Demo videosu: https://youtu.be/94njYEO7OMc
 
